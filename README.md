@@ -1,25 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # PC2
+Un jupyter con las respuesta esta en el repositorio llamado: PC2.ipynb
+El link es : https://stormy-falls-13130-2ca758c6cd93.herokuapp.com/movies
